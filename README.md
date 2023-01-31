@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/viraj-paradkar-33209b220/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" alt="https://www.linkedin.com/in/viraj-paradkar-33209b220/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/viraj313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/viraj313" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/spacecoder96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/spacecoder96" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/spacecoder96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/spacecoder96/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/viraj-paradkar-33209b220/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" alt="https://www.linkedin.com/in/viraj-paradkar-33209b220/" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/viraj313" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" alt="https://www.kaggle.com/viraj313" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/spacecoder96" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="https://www.hackerrank.com/spacecoder96" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/spacecoder96/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="https://leetcode.com/spacecoder96/" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
