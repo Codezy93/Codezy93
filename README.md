@@ -1,6 +1,6 @@
 
 <h1  align="center">Hi 👋, I'm Viraj Paradkar</h1>
-<h3  align="center">A passionate developer from India.</h3>
+<h3  align="center">A passionate developer from India. I believe in making a positive difference by developing solutions through code. I am passionate, pragmatic and always looking forward to new challenges!</h3>
 <p  align="left">
 <img  src="https://komarev.com/ghpvc/?username=spacecoder96&label=Profile%20views&color=orange&style=for-the-badge"  alt="spacecoder96"  />
 </p>
