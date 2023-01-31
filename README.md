@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Viraj Paradkar</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spacecoder96&label=Profile%20views&color=0e75b6&style=flat" alt="spacecoder96" /> </p>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=spacecoder96&label=Profile%20views&color=0e75b6&style=flat" alt="spacecoder96" />
+</p>
 
 - 🔭 I’m currently working on [Doctorify](https://github.com/Hamara-Organization/Doctorify)
 
@@ -9,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/viraj-paradkar-33209b220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/viraj-paradkar-33209b220/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/viraj-paradkar-33209b220/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" alt="https://www.linkedin.com/in/viraj-paradkar-33209b220/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/viraj313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/viraj313" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/spacecoder96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/spacecoder96" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/spacecoder96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/spacecoder96/" height="30" width="40" /></a>
