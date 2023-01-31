@@ -12,7 +12,7 @@
 
 <p  align="left">
 <a  href="https://www.linkedin.com/in/viraj-paradkar-33209b220/"  target="blank"><img  align="center"  src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png"  alt="https://www.linkedin.com/in/viraj-paradkar-33209b220/"  height="30"  width="30"  /></a>
-<a  href="https://github.com/SpaceCoder96"  target="blank"><img  align="center"  src="https://img.icons8.com/sf-black-filled/512/github.png"  alt="https://github.com/SpaceCoder96"  height="30"  width="30"  /></a>
+<a  href="https://github.com/SpaceCoder96"  target="blank"><img  align="center"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-github-community-for-software-building-and-testing-online-logo-shadow-tal-revivo.png"  alt="https://github.com/SpaceCoder96"  height="30"  width="30"  /></a>
 </p>
 
 <h3  align="left">Find me on:</h3>
