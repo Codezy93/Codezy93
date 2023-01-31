@@ -20,6 +20,7 @@
 <a  href="https://www.kaggle.com/viraj313"  target="blank"><img  align="center"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png"  alt="https://www.kaggle.com/viraj313"  height="30"  width="30"  /></a>
 <a  href="https://www.hackerrank.com/spacecoder96"  target="blank"><img  align="center"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"  alt="https://www.hackerrank.com/spacecoder96"  height="30"  width="30"  /></a>
 <a  href="https://www.leetcode.com/https://leetcode.com/spacecoder96/"  target="blank"><img  align="center"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"  alt="https://leetcode.com/spacecoder96/"  height="30"  width="30"  /></a>
+<a  href="https://exercism.org/profiles/SpaceCoder96"  target="blank"><img  align="center"  src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4"  alt="https://exercism.org/profiles/SpaceCoder96"  height="30"  width="30"  /></a>
 </p>
 
   
