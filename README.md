@@ -4,7 +4,6 @@
 <p  align="left">
 <img  src="https://komarev.com/ghpvc/?username=spacecoder96&label=Profile%20views&color=orange&style=for-the-badge"  alt="spacecoder96"  />
 </p>
-- 🔭 I’m currently working on [Doctorify](https://github.com/Hamara-Organization/Doctorify)
 - 💬 Ask me about **Python, Flutter, Java**
   
 
