@@ -56,7 +56,7 @@ Connect with tech enthusiasts who share the passion for transformative potential
 
 <div style="display: flex;">
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="/assets/socials/.png" alt="LeetCode">
+        <img src="https://cdn.iconscout.com/icon/free/png-48/free-leetcode-3628885-3030025.png?f=webp&w=256" alt="LeetCode">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
         <img src="https://cdn.iconscout.com/icon/free/png-48/free-hackerrank-3628823-3030100.png?f=webp&w=256" alt="HackerRank">
@@ -71,7 +71,7 @@ Connect with tech enthusiasts who share the passion for transformative potential
         <img src="/assets/socials/.png" alt="Unstop">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="/assets/socials/.png" alt="Codechef">
+        <img width="48" height="48" src="https://img.icons8.com/fluency/48/codechef.png" alt="codechef"/>
     </a>
     <a href="" target="_blank" style="padding-right:10px">
         <img src="/assets/socials/.png" alt="Datacamp">
