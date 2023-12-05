@@ -36,19 +36,19 @@ Connect with tech enthusiasts who share the passion for transformative potential
 
 <div style="display: flex;">
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="../SpaceCoder96/assets/socials/linkedin.png" alt="LinkedIn">
+        <img src="/assets/socials/linkedin.png" alt="LinkedIn">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="../SpaceCoder96/assets/socials/github.png" alt="Github">
+        <img src="/assets/socials/github.png" alt="Github">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="../SpaceCoder96/assets/socials/twitter.png" alt="Twitter">
+        <img src="/assets/socials/twitter.png" alt="Twitter">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="../SpaceCoder96/assets/socials/medium.png" alt="Medium">
+        <img src="/assets/socials/medium.png" alt="Medium">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="../SpaceCoder96/assets/socials/stack-overflow.png" alt="Stack Overflow">
+        <img src="/assets/socials/stack-overflow.png" alt="Stack Overflow">
     </a>
 </div>
 
@@ -56,31 +56,31 @@ Connect with tech enthusiasts who share the passion for transformative potential
 
 <div style="display: flex;">
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="../SpaceCoder96/assets/socials/.png" alt="LeetCode">
+        <img src="/assets/socials/.png" alt="LeetCode">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="../SpaceCoder96/assets/socials/.png" alt="HackerRank">
+        <img src="/assets/socials/.png" alt="HackerRank">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="../SpaceCoder96/assets/socials/.png" alt="HackerEarth">
+        <img src="/assets/socials/.png" alt="HackerEarth">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="../SpaceCoder96/assets/socials/.png" alt="Exercism">
+        <img src="/assets/socials/.png" alt="Exercism">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="../SpaceCoder96/assets/socials/.png" alt="Unstop">
+        <img src="/assets/socials/.png" alt="Unstop">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="../SpaceCoder96/assets/socials/.png" alt="Codechef">
+        <img src="/assets/socials/.png" alt="Codechef">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="../SpaceCoder96/assets/socials/.png" alt="Datacamp">
+        <img src="/assets/socials/.png" alt="Datacamp">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="../SpaceCoder96/assets/socials/.png" alt="Forage">
+        <img src="/assets/socials/.png" alt="Forage">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="../SpaceCoder96/assets/socials/.png" alt="">
+        <img src="/assets/socials/.png" alt="">
     </a>
 </div>
 
@@ -88,6 +88,6 @@ Connect with tech enthusiasts who share the passion for transformative potential
 
 <div style="display: flex;">
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="../SpaceCoder96/assets/languages/.png" alt="">
+        <img src="/assets/languages/.png" alt="">
     </a>
 </div>
