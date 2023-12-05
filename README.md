@@ -36,19 +36,19 @@ Connect with tech enthusiasts who share the passion for transformative potential
 
 <div style="display: flex;">
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="https://github.com/SpaceCoder96/SpaceCoder96/tree/main/assets/socials/linkedin.png" alt="LinkedIn">
+        <img src="https://github.com/SpaceCoder96/SpaceCoder96/blob/tree/main/assets/socials/linkedin.png" alt="LinkedIn">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="https://github.com/SpaceCoder96/SpaceCoder96/tree/main/assets/socials/github.png" alt="Github">
+        <img src="https://github.com/SpaceCoder96/SpaceCoder96/blob/tree/main/assets/socials/github.png" alt="Github">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="https://github.com/SpaceCoder96/SpaceCoder96/tree/main/assets/socials/twitter.png" alt="Twitter">
+        <img src="https://github.com/SpaceCoder96/SpaceCoder96/blob/tree/main/assets/socials/twitter.png" alt="Twitter">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="https://github.com/SpaceCoder96/SpaceCoder96/tree/main/assets/socials/medium.png" alt="Medium">
+        <img src="https://github.com/SpaceCoder96/SpaceCoder96/blob/tree/main/assets/socials/medium.png" alt="Medium">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="https://github.com/SpaceCoder96/SpaceCoder96/tree/main/assets/socials/stack-overflow.png" alt="Stack Overflow">
+        <img src="https://github.com/SpaceCoder96/SpaceCoder96/blob/tree/main/assets/socials/stack-overflow.png" alt="Stack Overflow">
     </a>
 </div>
 
@@ -56,31 +56,31 @@ Connect with tech enthusiasts who share the passion for transformative potential
 
 <div style="display: flex;">
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="https://github.com/SpaceCoder96/SpaceCoder96/tree/main/assets/socials/.png" alt="LeetCode">
+        <img src="https://github.com/SpaceCoder96/SpaceCoder96/blob/tree/main/assets/socials/.png" alt="LeetCode">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="https://github.com/SpaceCoder96/SpaceCoder96/tree/main/assets/socials/.png" alt="HackerRank">
+        <img src="https://github.com/SpaceCoder96/SpaceCoder96/blob/tree/main/assets/socials/.png" alt="HackerRank">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="https://github.com/SpaceCoder96/SpaceCoder96/tree/main/assets/socials/.png" alt="HackerEarth">
+        <img src="https://github.com/SpaceCoder96/SpaceCoder96/blob/tree/main/assets/socials/.png" alt="HackerEarth">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="https://github.com/SpaceCoder96/SpaceCoder96/tree/main/assets/socials/.png" alt="Exercism">
+        <img src="https://github.com/SpaceCoder96/SpaceCoder96/blob/tree/main/assets/socials/.png" alt="Exercism">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="https://github.com/SpaceCoder96/SpaceCoder96/tree/main/assets/socials/.png" alt="Unstop">
+        <img src="https://github.com/SpaceCoder96/SpaceCoder96/blob/tree/main/assets/socials/.png" alt="Unstop">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="https://github.com/SpaceCoder96/SpaceCoder96/tree/main/assets/socials/.png" alt="Codechef">
+        <img src="https://github.com/SpaceCoder96/SpaceCoder96/blob/tree/main/assets/socials/.png" alt="Codechef">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="https://github.com/SpaceCoder96/SpaceCoder96/tree/main/assets/socials/.png" alt="Datacamp">
+        <img src="https://github.com/SpaceCoder96/SpaceCoder96/blob/tree/main/assets/socials/.png" alt="Datacamp">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="https://github.com/SpaceCoder96/SpaceCoder96/tree/main/assets/socials/.png" alt="Forage">
+        <img src="https://github.com/SpaceCoder96/SpaceCoder96/blob/tree/main/assets/socials/.png" alt="Forage">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="https://github.com/SpaceCoder96/SpaceCoder96/tree/main/assets/socials/.png" alt="">
+        <img src="https://github.com/SpaceCoder96/SpaceCoder96/blob/tree/main/assets/socials/.png" alt="">
     </a>
 </div>
 
@@ -88,6 +88,6 @@ Connect with tech enthusiasts who share the passion for transformative potential
 
 <div style="display: flex;">
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="https://github.com/SpaceCoder96/SpaceCoder96/tree/main/assets/languages/.png" alt="">
+        <img src="https://github.com/SpaceCoder96/SpaceCoder96/blob/tree/main/assets/languages/.png" alt="">
     </a>
 </div>
