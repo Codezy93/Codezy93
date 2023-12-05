@@ -59,7 +59,7 @@ Connect with tech enthusiasts who share the passion for transformative potential
         <img src="/assets/socials/.png" alt="LeetCode">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-3628823-3030100.png?f=webp&w=256" alt="HackerRank">
+        <img src="https://cdn.iconscout.com/icon/free/png-48/free-hackerrank-3628823-3030100.png?f=webp&w=256" alt="HackerRank">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
         <img src="/assets/socials/.png" alt="HackerEarth">
