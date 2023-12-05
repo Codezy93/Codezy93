@@ -38,17 +38,17 @@ Connect with tech enthusiasts who share the passion for transformative potential
     <a href="" target="_blank" style="padding-right:10px">
         <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
     </a>
-    <a href="" target="_blank" style="padding-right:10px">
-        <img src="/assets/socials/github.png" alt="Github">
+    <a href="https://github.com/SpaceCoder96" target="_blank" style="padding-right:10px">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/github--v1.png" alt="github--v1"/>
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="/assets/socials/twitter.png" alt="Twitter">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/twitterx--v1.png" alt="twitterx--v1"/>
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="/assets/socials/medium.png" alt="Medium">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/medium-logo.png" alt="medium-logo"/>
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="/assets/socials/stack-overflow.png" alt="Stack Overflow">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow"/>
     </a>
 </div>
 
@@ -59,7 +59,7 @@ Connect with tech enthusiasts who share the passion for transformative potential
         <img src="/assets/socials/.png" alt="LeetCode">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
-        <img src="/assets/socials/.png" alt="HackerRank">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-3628823-3030100.png?f=webp&w=256" alt="HackerRank">
     </a>
     <a href="" target="_blank" style="padding-right:10px">
         <img src="/assets/socials/.png" alt="HackerEarth">
