@@ -1,7 +1,7 @@
 <h1  align="center">Hi 👋, I'm Viraj Paradkar</h1>
 
-<h5  align="left">🎓 Vellore Institute of Technology </h3>
-<h5  align="left">📍 Mumbai, Maharashtra, India </h3>
+<h5  align="center">Student at Vellore Institute of Technology, Bhopal</h3>
+<h5  align="center">Located in Mumbai, Maharashtra, India </h3>
 
 ---
 
@@ -26,18 +26,68 @@ Aspirations surpass personal success; they encompass a higher purpose. Imagine a
 <h5>✨ Join the Journey:</h5>
 Connect with tech enthusiasts who share the passion for transformative potential. Let's innovate to drive progress. Enthusiast, collaborator, or curious, be part of this adventure.
 
-<h4>#TechEnthusiast #AIandDataScience #LifelongLearner #CollaborativeSpirit #CreatingImpact #FutureFocused</h5>
+<br>
+<br>
+<h9>#TechEnthusiast #AIandDataScience #LifelongLearner #CollaborativeSpirit #CreatingImpact #FutureFocused</h9>
+
 <p>
 
 <h3  align="left">Connect with me:</h3>
 
+<div style="display: flex;">
+    <a href="" target="_blank" style="padding-right:10px">
+        <img src="./assets/socials/linkedin.png" alt="LinkedIn">
+    </a>
+    <a href="" target="_blank" style="padding-right:10px">
+        <img src="./assets/socials/github.png" alt="Github">
+    </a>
+    <a href="" target="_blank" style="padding-right:10px">
+        <img src="./assets/socials/twitter.png" alt="Twitter">
+    </a>
+    <a href="" target="_blank" style="padding-right:10px">
+        <img src="./assets/socials/medium.png" alt="Medium">
+    </a>
+    <a href="" target="_blank" style="padding-right:10px">
+        <img src="./assets/socials/stack-overflow.png" alt="Stack Overflow">
+    </a>
+</div>
+
 <h3  align="left">Find me on:</h3>
+
+<div style="display: flex;">
+    <a href="" target="_blank" style="padding-right:10px">
+        <img src="./assets/socials/.png" alt="LeetCode">
+    </a>
+    <a href="" target="_blank" style="padding-right:10px">
+        <img src="./assets/socials/.png" alt="HackerRank">
+    </a>
+    <a href="" target="_blank" style="padding-right:10px">
+        <img src="./assets/socials/.png" alt="HackerEarth">
+    </a>
+    <a href="" target="_blank" style="padding-right:10px">
+        <img src="./assets/socials/.png" alt="Exercism">
+    </a>
+    <a href="" target="_blank" style="padding-right:10px">
+        <img src="./assets/socials/.png" alt="Unstop">
+    </a>
+    <a href="" target="_blank" style="padding-right:10px">
+        <img src="./assets/socials/.png" alt="Codechef">
+    </a>
+    <a href="" target="_blank" style="padding-right:10px">
+        <img src="./assets/socials/.png" alt="Datacamp">
+    </a>
+    <a href="" target="_blank" style="padding-right:10px">
+        <img src="./assets/socials/.png" alt="Forage">
+    </a>
+    <a href="" target="_blank" style="padding-right:10px">
+        <img src="./assets/socials/.png" alt="">
+    </a>
+</div>
 
 <h3  align="left">Languages and Tools:</h3>
 
-
-<div class="flex w-full flex-col items-center">
-<img class="output" src="https://github-readme-stats.vercel.app/api?username=spacecoder96&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
-<img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=spacecoder96&amp;theme=vue-dark&amp;hide_border=true" alt="github streak">
-<img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacecoder96&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
+<div style="display: flex;">
+    <a href="" target="_blank" style="padding-right:10px">
+        <img src="./assets/languages/.png" alt="">
+    </a>
 </div>
