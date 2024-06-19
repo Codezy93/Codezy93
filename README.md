@@ -1,12 +1,7 @@
 # <center>Hi 👋, I'm Viraj Paradkar</center>
 
----
-
-
 <h2 align="center">
 Hello to my fellow tech enthusiasts and knowledge seekers! As I approach my journey's culmination as a Computer Science student at Vellore Institute of Technology, I'm thrilled to share my story, insights, and aspirations.
-
----
 
 # Connect with me:
 <center>
@@ -26,8 +21,6 @@ Hello to my fellow tech enthusiasts and knowledge seekers! As I approach my jour
 <br>
 </div>
 </center>
-
----
 
 # Languages:
 <center>
@@ -49,8 +42,6 @@ Hello to my fellow tech enthusiasts and knowledge seekers! As I approach my jour
 <br>
 </div>
 </center>
-
----
 
 # Tools:
 <center>
@@ -79,8 +70,6 @@ Hello to my fellow tech enthusiasts and knowledge seekers! As I approach my jour
 </div>
 </center>
 
----
-
 # Find me on:
 <center>
 <div style="background-color: #000000; border: 5px solid orange;">
@@ -92,8 +81,6 @@ Hello to my fellow tech enthusiasts and knowledge seekers! As I approach my jour
 </div>
 </center>
 
----
-
 # Stats
 <center>
 <div style="background-color: #000000; border: 5px solid orange;">
@@ -104,5 +91,3 @@ Hello to my fellow tech enthusiasts and knowledge seekers! As I approach my jour
 <br>
 </div>
 </center>
-
----
