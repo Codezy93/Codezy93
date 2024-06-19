@@ -1,10 +1,10 @@
-<center><h1> Hi 👋, I'm Viraj Paradkar </h1></center>
+# <div align="center">Hi 👋, I'm Viraj Paradkar</div>
 
 <h2 align="center">
 Hello to my fellow tech enthusiasts and knowledge seekers! As I approach my journey's culmination as a Computer Science student at Vellore Institute of Technology, I'm thrilled to share my story, insights, and aspirations.
 
 # Connect with me:
-<center>
+<div align="center">
 <div style="background-color: #000000; border: 5px solid orange;">
 <br>
 
@@ -20,10 +20,10 @@ Hello to my fellow tech enthusiasts and knowledge seekers! As I approach my jour
 
 <br>
 </div>
-</center>
+</div>
 
 # Languages:
-<center>
+<div align="center">
 <div style="background-color: #000000; border: 5px solid orange;">
 <br>
 
@@ -41,10 +41,10 @@ Hello to my fellow tech enthusiasts and knowledge seekers! As I approach my jour
 
 <br>
 </div>
-</center>
+</div>
 
 # Tools:
-<center>
+<div align="center">
 <div style="background-color: #000000; border: 5px solid orange;">
 <br>
 
@@ -68,10 +68,10 @@ Hello to my fellow tech enthusiasts and knowledge seekers! As I approach my jour
 
 <br>
 </div>
-</center>
+</div>
 
 # Find me on:
-<center>
+<div align="center">
 <div style="background-color: #000000; border: 5px solid orange;">
 <br>
 
@@ -79,10 +79,10 @@ Hello to my fellow tech enthusiasts and knowledge seekers! As I approach my jour
 
 <br>
 </div>
-</center>
+</div>
 
 # Stats
-<center>
+<div align="center">
 <div style="background-color: #000000; border: 5px solid orange;">
 <br>
 
@@ -90,4 +90,4 @@ Hello to my fellow tech enthusiasts and knowledge seekers! As I approach my jour
 
 <br>
 </div>
-</center>
+</div>
