@@ -1,4 +1,4 @@
-# <center>Hi 👋, I'm Viraj Paradkar</center>
+<center><h1> Hi 👋, I'm Viraj Paradkar </h1></center>
 
 <h2 align="center">
 Hello to my fellow tech enthusiasts and knowledge seekers! As I approach my journey's culmination as a Computer Science student at Vellore Institute of Technology, I'm thrilled to share my story, insights, and aspirations.
