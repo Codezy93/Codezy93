@@ -8,10 +8,10 @@ Hello to my fellow tech enthusiasts and knowledge seekers! As I approach my jour
 <div style="background-color: #000000; border: 5px solid orange;">
 <br>
 
-[![Portfolio](https://img.icons8.com/fluency/64/domain.png)]()
-[![Linkedin](https://img.icons8.com/fluency/64/linkedin.png)]()
-[![GitHub](https://img.icons8.com/color/64/github--v1.png)]()
-[![Twitter](https://img.icons8.com/color/64/twitterx--v1.png)]()
+[![Portfolio](https://res.cloudinary.com/dzqa2piuh/image/upload/v1719671562/portfolio-64.png)]()
+[![Linkedin](https://res.cloudinary.com/dzqa2piuh/image/upload/v1719671536/linkedin-64.png)]()
+[![GitHub](https://res.cloudinary.com/dzqa2piuh/image/upload/v1719671498/github-64.png)]()
+[![Twitter](https://res.cloudinary.com/dzqa2piuh/image/upload/v1719671605/twitter-64.png)]()
 [![Reddit](https://img.icons8.com/color/64/reddit.png)]()
 [![Medium](https://img.icons8.com/color/64/medium-logo.png)]()
 [![Youtube](https://img.icons8.com/color/64/youtube-play.png)]()
