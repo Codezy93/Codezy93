@@ -1,5 +1,8 @@
 # <div align="center">Hi 👋, I'm Viraj Paradkar</div>
 
+<div align="center"><img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/b3f4648a-b524-4d16-8694-ffc779e58062" /></div>
+
+
 >I am an Artificial Intelligence enthusiast. I see AI as a field that transforms data into actionable insights, turns algorithms into dependable solutions, and advances beyond routine automation.
 
 >- Passionate about leveraging AI to develop innovative solutions that address real-world problems and drive business value.
