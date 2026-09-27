@@ -1,9 +1,5 @@
 # <div align="center">Hi 👋, I'm Viraj Paradkar</div>
 
-<div align="center"><h3>L O (I) V I N G  -  C O M P U T E R S</h3></div>
-
-
-
 >I am an Artificial Intelligence enthusiast. I see AI as a field that transforms data into actionable insights, turns algorithms into dependable solutions, and advances beyond routine automation.
 
 >- Passionate about leveraging AI to develop innovative solutions that address real-world problems and drive business value.
